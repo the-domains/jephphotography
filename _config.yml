@@ -1,0 +1,28 @@
+name: jephphotography
+favicon: null
+layout_spectrum: 0.5730370958335698
+typography_spectrum: 0.9409359332639724
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.18374247360043228
+  lightness: 0.9302321816794574
+  saturation: 0.9452271023765206
+  rhythmicContrast: 0.5895995758473873
+purpose: []
